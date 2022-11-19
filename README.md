@@ -1,3 +1,7 @@
+![Vternity](https://img.shields.io/badge/Vternity-000000?style=for-the-badge&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vternity)
+[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto://vternity@gmail.com)
+
 # Perintah termux :
     $ apt update -y && apt upgrade -y
     $ pkg install git
